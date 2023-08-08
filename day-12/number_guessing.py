@@ -6,7 +6,7 @@ import art
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
 
-# test 
+# test
 # a function to check user's guess against the actual answer
 # track the number of turns and reduce by 1 if they get it wrong
 
